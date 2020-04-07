@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+a{
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+    color:#eaf6f6;
+}
+
+.button{
+	box-shadow: 0 0 0 2px #66bfbf;
+	background:linear-gradient(to bottom, #66bfbf 5%, #66bfb 100%);
+	background-color:#66bfbf;
+	border-radius:10px;
+	border:1px solid #66bfbf;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.button:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+
+.button-paragraph{
+  padding-bottom: 30px;
+}
+
+.contact-me{
+  margin-bottom: 60px;
+}
+
+.copyright{
+  color: #eaf6f6;
+  padding-top: 20px;
+}
+
+.describe{
+  line-height: 1.5;
+  color: #40514e;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  padding: 40px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.header{
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 180%;
+  font-weight: 400;
+}
+
+h1 {
+  color: #66bfbf;
+  font-size: 562.5%;
+  line-height: 1;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border-color: #a6b1e1;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 50px;
+}
+
+.icon-img{
+  width: 150px;
+  height: 150px;
+}
+
+.me{
+  width: 200px;
+  height: 200px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  line-height: 1.5;
+}
+
+.web-img{
+  width: 150px;
+  height: 150px;
+}
